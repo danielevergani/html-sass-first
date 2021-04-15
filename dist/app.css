@@ -1,1 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+h1 {
+  color: #6A5ACD;
+}
+
+h2 {
+  color: #6A5ACD;
+}
+
+p {
+  color: #246d30;
+}
+
+button {
+  background-color: #246d30;
+}

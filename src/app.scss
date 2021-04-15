@@ -1,0 +1,25 @@
+$principal_color: #6A5ACD;
+
+$secondary_color: #246d30;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: $principal_color;
+}
+
+h2{
+    color: $principal_color;
+}
+
+p{
+    color: $secondary_color;
+}
+
+button{
+    background-color: $secondary_color;
+}
