@@ -1,6 +1,8 @@
-$principal_color: #6A5ACD;
-
+$principal_color: red;
 $secondary_color: #246d30;
+$fontsize_title: 34px;
+$button_padding: 10px 10px;
+$par_border: 3px solid green;
 
 *{
     margin: 0;
@@ -14,12 +16,15 @@ h1{
 
 h2{
     color: $principal_color;
+    font-size: $fontsize_title;
 }
 
 p{
     color: $secondary_color;
+    border: $par_border;
 }
 
 button{
     background-color: $secondary_color;
+    padding: $button_padding;
 }

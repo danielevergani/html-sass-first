@@ -5,17 +5,20 @@
 }
 
 h1 {
-  color: #6A5ACD;
+  color: black;
 }
 
 h2 {
-  color: #6A5ACD;
+  color: black;
+  font-size: 34px;
 }
 
 p {
   color: #246d30;
+  border: 3px solid red;
 }
 
 button {
   background-color: #246d30;
+  padding: 10px 10px;
 }
